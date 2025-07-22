@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: e9ad43822073c8a40b933ed9a220c66c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5261174969917881424
+    second: Courses_1_0
+  - first:
+      213: -4972756315266914341
+    second: Courses_1_1
+  - first:
+      213: -7800700413598790282
+    second: Courses_1_2
+  - first:
+      213: -7613534490090343334
+    second: Courses_1_3
+  - first:
+      213: 7823027672761099679
+    second: Courses_1_4
+  - first:
+      213: -4737809075291457766
+    second: Courses_1_5
+  - first:
+      213: 4436863190670375972
+    second: Courses_1_6
+  - first:
+      213: 2916941478563174105
+    second: Courses_1_7
+  - first:
+      213: -3760328887885684709
+    second: Courses_1_8
+  - first:
+      213: 5130091077961606933
+    second: Courses_1_9
+  - first:
+      213: -7088253359027938126
+    second: Courses_1_10
+  - first:
+      213: -4624911116214932147
+    second: Courses_1_11
+  - first:
+      213: -1123301511693658186
+    second: Courses_1_12
+  - first:
+      213: -3386311008654884701
+    second: Courses_1_13
+  - first:
+      213: -6049211850352971300
+    second: Courses_1_14
+  - first:
+      213: 6320413753996687732
+    second: Courses_1_15
+  - first:
+      213: -3160836484074174647
+    second: Courses_1_16
+  - first:
+      213: 7215456380558537522
+    second: Courses_1_17
+  - first:
+      213: -3656073034399226955
+    second: Courses_1_18
+  - first:
+      213: 1514091557623016757
+    second: Courses_1_19
+  - first:
+      213: -2699149186282008262
+    second: Courses_1_20
+  - first:
+      213: -1835895453715324891
+    second: Courses_1_21
+  - first:
+      213: -537605828142561419
+    second: Courses_1_22
+  - first:
+      213: -8473146305596754694
+    second: Courses_1_23
+  - first:
+      213: -6471480390811054093
+    second: Courses_1_24
+  - first:
+      213: -1234165377377046294
+    second: Courses_1_25
+  - first:
+      213: -8372860901581640148
+    second: Courses_1_26
+  - first:
+      213: 603980425472539220
+    second: Courses_1_27
+  - first:
+      213: 8889152786681514820
+    second: Courses_1_28
+  - first:
+      213: -4015454033887456664
+    second: Courses_1_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Courses_1_0
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1818
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b34ed06d3d8cf6b0800000000000000
+      internalID: -5261174969917881424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_1
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1818
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd76fe16a783dfab0800000000000000
+      internalID: -4972756315266914341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_2
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1784
+        width: 320
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d8330cd485eb390800000000000000
+      internalID: -7800700413598790282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1662
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54faf038ba475690800000000000000
+      internalID: -7613534490090343334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_4
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1662
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95e9fe583af09c60800000000000000
+      internalID: 7823027672761099679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_5
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1594
+        width: 320
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1771ad7fbbef3eb0800000000000000
+      internalID: -4737809075291457766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1430
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cf9ec7097e29d30800000000000000
+      internalID: 4436863190670375972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_7
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1430
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d65c54f1de0b7820800000000000000
+      internalID: 2916941478563174105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_8
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1396
+        width: 320
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b102feeacc0a0dbc0800000000000000
+      internalID: -3760328887885684709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1274
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5176d4fa7aeb13740800000000000000
+      internalID: 5130091077961606933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_10
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1274
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc9b29002771ad90800000000000000
+      internalID: -7088253359027938126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_11
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1206
+        width: 320
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4de048f7d301dfb0800000000000000
+      internalID: -4624911116214932147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1049
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b717d30a3b3960f0800000000000000
+      internalID: -1123301511693658186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_13
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1049
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0812e34186101d0800000000000000
+      internalID: -3386311008654884701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_14
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1015
+        width: 320
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1b0a84fd1ec0ca0800000000000000
+      internalID: -6049211850352971300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 893
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479377082de96b750800000000000000
+      internalID: 6320413753996687732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_16
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 893
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9470aade6f37224d0800000000000000
+      internalID: -3160836484074174647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_17
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 825
+        width: 320
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23374875953722460800000000000000
+      internalID: 7215456380558537522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 632
+        width: 544
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3efb722f4034dc0800000000000000
+      internalID: -3656073034399226955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 632
+        width: 544
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53da989ef32230510800000000000000
+      internalID: 1514091557623016757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_20
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 633
+        width: 320
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3150e3ad12ba8ad0800000000000000
+      internalID: -2699149186282008262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_21
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 476
+        width: 544
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5202b84dfc69586e0800000000000000
+      internalID: -1835895453715324891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_22
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 476
+        width: 544
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5770260095a0a88f0800000000000000
+      internalID: -537605828142561419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_23
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 443
+        width: 320
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4fdf4e356596a80800000000000000
+      internalID: -8473146305596754694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 285
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff0dc63fdea036a0800000000000000
+      internalID: -6471480390811054093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_25
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 285
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0fa5fc02d5fdee0800000000000000
+      internalID: -1234165377377046294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_26
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 251
+        width: 320
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e287f0f5f9dcb80800000000000000
+      internalID: -8372860901581640148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 129
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a74973ff4c16800800000000000000
+      internalID: 603980425472539220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_28
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 129
+        width: 544
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b435cdc5d9c5b70800000000000000
+      internalID: 8889152786681514820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_1_29
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 61
+        width: 320
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8629a3ab4dd3648c0800000000000000
+      internalID: -4015454033887456664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Courses_1_0: -5261174969917881424
+      Courses_1_1: -4972756315266914341
+      Courses_1_10: -7088253359027938126
+      Courses_1_11: -4624911116214932147
+      Courses_1_12: -1123301511693658186
+      Courses_1_13: -3386311008654884701
+      Courses_1_14: -6049211850352971300
+      Courses_1_15: 6320413753996687732
+      Courses_1_16: -3160836484074174647
+      Courses_1_17: 7215456380558537522
+      Courses_1_18: -3656073034399226955
+      Courses_1_19: 1514091557623016757
+      Courses_1_2: -7800700413598790282
+      Courses_1_20: -2699149186282008262
+      Courses_1_21: -1835895453715324891
+      Courses_1_22: -537605828142561419
+      Courses_1_23: -8473146305596754694
+      Courses_1_24: -6471480390811054093
+      Courses_1_25: -1234165377377046294
+      Courses_1_26: -8372860901581640148
+      Courses_1_27: 603980425472539220
+      Courses_1_28: 8889152786681514820
+      Courses_1_29: -4015454033887456664
+      Courses_1_3: -7613534490090343334
+      Courses_1_4: 7823027672761099679
+      Courses_1_5: -4737809075291457766
+      Courses_1_6: 4436863190670375972
+      Courses_1_7: 2916941478563174105
+      Courses_1_8: -3760328887885684709
+      Courses_1_9: 5130091077961606933
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 6f130d7a5f73a9547863f7b7607d9214
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1189820249158569057
+    second: Courses_Possible_Assignments_2_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_2_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1868
+        width: 832
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347d3ece82995a242bcb191265f56b6c
+      internalID: 1136267563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_2_1
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1868
+        width: 881
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73caa1dec49ceec4dbf40573d8917b61
+      internalID: -16703837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_2_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1747
+        width: 882
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81d9b40ff3185a43bf6546f2cd37a67
+      internalID: 1475992817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_2_3
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1747
+        width: 835
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e43acecd0ba224fab7fa8438e08072
+      internalID: 1038055554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b8e0da4071e59e34486958f42cf4968c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Courses_Possible_Assignments_2_0: 1136267563
+      Courses_Possible_Assignments_2_1: -16703837
+      Courses_Possible_Assignments_2_10: -650662733
+      Courses_Possible_Assignments_2_11: -385055176
+      Courses_Possible_Assignments_2_12: -1788874979
+      Courses_Possible_Assignments_2_13: 1982018902
+      Courses_Possible_Assignments_2_14: -2130014350
+      Courses_Possible_Assignments_2_15: 1675294788
+      Courses_Possible_Assignments_2_16: 1595416792
+      Courses_Possible_Assignments_2_17: 1074124194
+      Courses_Possible_Assignments_2_18: 625125969
+      Courses_Possible_Assignments_2_19: 306046397
+      Courses_Possible_Assignments_2_2: 1475992817
+      Courses_Possible_Assignments_2_20: -2033251720
+      Courses_Possible_Assignments_2_21: -874921750
+      Courses_Possible_Assignments_2_22: 1017994809
+      Courses_Possible_Assignments_2_23: -353022925
+      Courses_Possible_Assignments_2_24: 915085650
+      Courses_Possible_Assignments_2_25: 1326080974
+      Courses_Possible_Assignments_2_26: -1868323562
+      Courses_Possible_Assignments_2_27: 734064505
+      Courses_Possible_Assignments_2_28: 1562781621
+      Courses_Possible_Assignments_2_29: -137255492
+      Courses_Possible_Assignments_2_3: 1038055554
+      Courses_Possible_Assignments_2_30: 1314473203
+      Courses_Possible_Assignments_2_31: 247819275
+      Courses_Possible_Assignments_2_32: -207651773
+      Courses_Possible_Assignments_2_33: -676921465
+      Courses_Possible_Assignments_2_4: -891149528
+      Courses_Possible_Assignments_2_5: 80372954
+      Courses_Possible_Assignments_2_6: -583655057
+      Courses_Possible_Assignments_2_7: -1002230240
+      Courses_Possible_Assignments_2_8: 196118842
+      Courses_Possible_Assignments_2_9: -1387278679
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

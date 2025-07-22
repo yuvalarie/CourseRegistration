@@ -1,0 +1,31 @@
+@startuml
+start
+:Opening Scene;
+:Wait for Start;
+if (Start Pressed?) then (yes)
+  :Load BossLevel Scene;
+  :Start Game Loop;
+  fork
+    :CATimeManager counts down;
+    if (Time Over?) then (yes)
+      :Game Lost;
+      :Load EndSceneLose;
+      stop
+    endif
+  fork again
+    :CADamageManager tracks progress;
+    if (Target Damage Reached?) then (yes)
+      :Game Won;
+      :Load EndSceneWin;
+      stop
+    endif
+  fork again
+    :CASystemErrorProvider provides errors;
+  fork again
+    :Player assigns/removes courses;
+    :CAStudentAssignmentProvider updates CADamageTracker;
+  end fork
+else (no)
+  :Wait;
+endif
+@enduml 

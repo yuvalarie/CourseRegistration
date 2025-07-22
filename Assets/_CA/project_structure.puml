@@ -1,0 +1,30 @@
+@startuml
+package "_CA" {
+  package "Core" {
+    package "BaseMono" {}
+    package "Managers" {}
+  }
+  package "Fonts" {}
+  package "Sprites" {}
+  package "GamePlay" {
+    package "Assignments" {}
+    package "Courses" {
+      package "Objects" {}
+      package "Scripts" {}
+    }
+    package "Errors" {
+      package "Error Provider" {}
+      package "Error Mono" {}
+      package "Error Types" {}
+      package "Prefabs" {}
+    }
+    package "System" {
+      package "System's Damage" {}
+      package "Slots" {}
+    }
+  }
+  package "Pools" {
+    package "ErrorPool" {}
+  }
+}
+@enduml 

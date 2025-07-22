@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: 358e9756f3f4b2c45a56e66dfe3d471b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8231046618571072719
+    second: Courses_Possible_Assignments_1_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1754
+        width: 442
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec2d365d9173a2408228597d775b73b
+      internalID: -70970562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_6
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1756
+        width: 440
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8452b90868aaa4190be85f2b36c5f5
+      internalID: 740524884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_7
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1756
+        width: 434
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59c5b6aadb4fd64a9cb825c3af4c06f
+      internalID: -123125248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_10
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1647
+        width: 442
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dcce024c806054bbf275ba6ef04f2e
+      internalID: -429529213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_11
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1647
+        width: 438
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1720b9031e98f564ba8976260d4a4e9e
+      internalID: -1392353653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_13
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1521
+        width: 384
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3c9b313390739479c88196aaf37e31
+      internalID: 167410561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_14
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1521
+        width: 442
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c83d2ec3f30cab458cea1c19d51e3ce
+      internalID: -1009330955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_15
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1520
+        width: 438
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c941009b331de5d49b57c06fc951a4a3
+      internalID: -717157890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1398
+        width: 443
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8bc96101d7ec947ad131582979cd63
+      internalID: -1535295003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1396
+        width: 437
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf322dfe14b25be438f40c1c3c3b743a
+      internalID: -1219596319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_18
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1398
+        width: 439
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc0837e8a6a5044c883a092a2f714d6
+      internalID: 1061686583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_19
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1398
+        width: 440
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05afdac9bd3f3441aca701af114e474
+      internalID: -1256115572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_23
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1273
+        width: 441
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a88b8d0ffc204d91313b4fb85eda4
+      internalID: 1396033429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_26
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1160
+        width: 440
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c937dfaeb7a0ee40be076670b0d234b
+      internalID: 2060659174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_27
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1161
+        width: 439
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756651126b74b644d9de916fa081a53c
+      internalID: 241244254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_29
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1049
+        width: 402
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0046c8f4ec2784f98b2229346fae06
+      internalID: 225641399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_30
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1052
+        width: 440
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21405a74e82f4464fad1958b03d3d6a0
+      internalID: 2094336975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_31
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1051
+        width: 438
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f3d23afe05bc14e82bb200f19b0a40
+      internalID: -372875962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_33
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 941
+        width: 444
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adeaae3dc7acbd44b327f72eca70622
+      internalID: 1615830034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_34
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 941
+        width: 442
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83b9a98d0583c54db9c17db87f06ef9
+      internalID: 980588333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_35
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 940
+        width: 437
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26b24b0aa4c5374e9c52d335ad7f625
+      internalID: -1373953445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 832
+        width: 440
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4070423c010f4418ec2839018d44a0
+      internalID: 789313244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_37
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 832
+        width: 442
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe562f541c5eb3408e8a5a7de97f7b7
+      internalID: 1146358941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_38
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 832
+        width: 391
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5131c74a3847db41bf327083b33e41e
+      internalID: 652322006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_39
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 832
+        width: 440
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ad21983f115b74298ac0e0129fce07
+      internalID: -711879781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_42
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 721
+        width: 389
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1199baa65bb39f44a42b587693c16f8
+      internalID: 1688890231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_43
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 724
+        width: 389
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbbdd0f55de17b408a7bbd9101076b2
+      internalID: 353324201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 596
+        width: 441
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687c49b10d62b234280317468906e8e7
+      internalID: -608659284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_45
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 596
+        width: 439
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969d5e10d6541c5429aeed31454e7782
+      internalID: 803763734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_46
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 594
+        width: 386
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7fb27315f73a64d8f9d24d5f613ed1
+      internalID: 619848166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_47
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 594
+        width: 442
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292578623412ab442820194c65f2706a
+      internalID: 936282877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_50
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 483
+        width: 389
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc0dd6fc2d7b2f47b177d8a7deefa85
+      internalID: 440646216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Courses_Possible_Assignments_1_51
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 485
+        width: 391
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae9c0daff9fe1c468a29536aab3af81
+      internalID: 595307434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dba802f063c137c428b5963620b1eb2b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Courses_Possible_Assignments_1_0: 95835562
+      Courses_Possible_Assignments_1_1: -853487241
+      Courses_Possible_Assignments_1_10: -429529213
+      Courses_Possible_Assignments_1_11: -1392353653
+      Courses_Possible_Assignments_1_12: 1171763230
+      Courses_Possible_Assignments_1_13: 167410561
+      Courses_Possible_Assignments_1_14: -1009330955
+      Courses_Possible_Assignments_1_15: -717157890
+      Courses_Possible_Assignments_1_16: -1535295003
+      Courses_Possible_Assignments_1_17: -1219596319
+      Courses_Possible_Assignments_1_18: 1061686583
+      Courses_Possible_Assignments_1_19: -1256115572
+      Courses_Possible_Assignments_1_2: 33640053
+      Courses_Possible_Assignments_1_20: 354556277
+      Courses_Possible_Assignments_1_21: 810123047
+      Courses_Possible_Assignments_1_22: -2069999
+      Courses_Possible_Assignments_1_23: 1396033429
+      Courses_Possible_Assignments_1_24: 352297613
+      Courses_Possible_Assignments_1_25: -1078760900
+      Courses_Possible_Assignments_1_26: 2060659174
+      Courses_Possible_Assignments_1_27: 241244254
+      Courses_Possible_Assignments_1_28: 1276592698
+      Courses_Possible_Assignments_1_29: 225641399
+      Courses_Possible_Assignments_1_3: 1044325264
+      Courses_Possible_Assignments_1_30: 2094336975
+      Courses_Possible_Assignments_1_31: -372875962
+      Courses_Possible_Assignments_1_32: -394751587
+      Courses_Possible_Assignments_1_33: 1615830034
+      Courses_Possible_Assignments_1_34: 980588333
+      Courses_Possible_Assignments_1_35: -1373953445
+      Courses_Possible_Assignments_1_36: 789313244
+      Courses_Possible_Assignments_1_37: 1146358941
+      Courses_Possible_Assignments_1_38: 652322006
+      Courses_Possible_Assignments_1_39: -711879781
+      Courses_Possible_Assignments_1_4: -1025280621
+      Courses_Possible_Assignments_1_40: -189550384
+      Courses_Possible_Assignments_1_41: 781759562
+      Courses_Possible_Assignments_1_42: 1688890231
+      Courses_Possible_Assignments_1_43: 353324201
+      Courses_Possible_Assignments_1_44: -608659284
+      Courses_Possible_Assignments_1_45: 803763734
+      Courses_Possible_Assignments_1_46: 619848166
+      Courses_Possible_Assignments_1_47: 936282877
+      Courses_Possible_Assignments_1_48: -2123210406
+      Courses_Possible_Assignments_1_49: -1928255194
+      Courses_Possible_Assignments_1_5: -70970562
+      Courses_Possible_Assignments_1_50: 440646216
+      Courses_Possible_Assignments_1_51: 595307434
+      Courses_Possible_Assignments_1_52: -768637574
+      Courses_Possible_Assignments_1_53: -1650804883
+      Courses_Possible_Assignments_1_54: 1852688
+      Courses_Possible_Assignments_1_55: 1515415497
+      Courses_Possible_Assignments_1_56: 1777162907
+      Courses_Possible_Assignments_1_57: -660761342
+      Courses_Possible_Assignments_1_58: 949345726
+      Courses_Possible_Assignments_1_59: 1236254200
+      Courses_Possible_Assignments_1_6: 740524884
+      Courses_Possible_Assignments_1_60: -1276196599
+      Courses_Possible_Assignments_1_61: -1379654
+      Courses_Possible_Assignments_1_62: 1853443992
+      Courses_Possible_Assignments_1_63: 1591057428
+      Courses_Possible_Assignments_1_64: 951895112
+      Courses_Possible_Assignments_1_65: 873060682
+      Courses_Possible_Assignments_1_66: -35970326
+      Courses_Possible_Assignments_1_67: 1161149094
+      Courses_Possible_Assignments_1_7: -123125248
+      Courses_Possible_Assignments_1_8: 846075536
+      Courses_Possible_Assignments_1_9: 1950962473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98a9b0be05254a6b9e5f48337cc55716, type: 3}
+  m_Name: LinearAlgebra2TA
+  m_EditorClassIdentifier: 
+  courseId: 4
+  courseName: Linear Algebra 2 TA
+  courseDuration: 1
+  slotImage: {fileID: -4624911116214932147, guid: e9ad43822073c8a40b933ed9a220c66c, type: 3}
+  hoverSprite: {fileID: -7088253359027938126, guid: e9ad43822073c8a40b933ed9a220c66c, type: 3}
+  allowedSlotCoordinates:
+  - {x: 5, y: 4}
+  - {x: 4, y: 2}
+  isTwoLectureCourse: 0
+  twoLectureSlotCoordinates: []
